@@ -1,0 +1,3 @@
+rootProject.name = 'folioo_3610'
+
+include ':app'
